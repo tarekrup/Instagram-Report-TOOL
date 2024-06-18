@@ -1,5 +1,15 @@
 # Instagram-Report-TOOL
-<h1>CLICK ON THE TEXT FILE:  Instagram Report TOOL.txt</h1>
-<h1>In that file you will find our Telegram channels to get the programs for Instagram, TIkTok, FaceBook, Telegram.</h1>
-<p>
-<h2>With our Tools you can report Instagram, Facebook, Telegram and TikTok accounts.</h2>
+
+This is a mass report bot from many users worldwide, Bot can report a account with max 3.4 M Followers.
+
+## Telegram Group:
+<a href="https://t.me/snspyreportinsta"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+#### Join Telegram group for proof, feedback, details and chats.
+
+## How to get the program or report a account:
+- Go to <a href="https://t.me/snspyreportinsta"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+- Check the proof.
+- Under the videos you will see my contact.
+<hr>
+<img src="https://i.postimg.cc/2yryF4VG/nouers.jpg" alt="Trulli" width="239" height="232">
+
